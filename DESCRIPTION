@@ -1,0 +1,15 @@
+Package: UnifiedPH
+Title: A package for parametric regression analysis of arbitrarily censored data subject to left-truncation
+Version: 0.0.0.9000
+Author: Prabhashi Withana Gamage and Christopher S. McMahan and  Lianming Wang
+Maintainer: Prabhashi Withana Gamage <withanpw@jmu.edu>
+Description: Currently using the proportional hazards (PH) model.
+Imports: 
+    splines2, ICsurv, numDeriv, Rdpack
+RdMacros: Rdpack
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+
